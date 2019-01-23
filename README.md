@@ -14,6 +14,8 @@
 * [Contributing](#con)
 * [Download and installation](#dow)
 
+This is a new branch to have travis test the solver.
+
 Choco-solver is an open-source Java library for Constraint Programming.
 
 Current stable version is 4.10.0 (12 Dec 2018).
